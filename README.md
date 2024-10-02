@@ -2,7 +2,7 @@
 This is where I documented my first project while learning with the Incubator Hub.
 ---
 
-# WEEK 1
+# EXCEL (WEEK 1)
 ---
 
 ## INTRODUCTION TO EXCEL, DATA ENTRY AND EXCEL FUNCTIONS (NUMBERS)
@@ -65,4 +65,35 @@ The formula below was used to calculate for our conditional questions.
 ```EXCEL(For Conditionals)
 SUMIF(C8:C27,"Bayelsa",D8:D27)
 ```
+
+# EXCEL (WEEK 2)
+---
+
+## EXCEL FUNCTIONS (TEXT) AND VLOOKUP
+---
+
+### Course Overview
+---
+The second week of learning Excel, we talked more about functions; 'Text Functions'. The following functions were explained;
+  - LEFT.
+  - MID.
+  - RIGHT.
+  - TRIM.
+  - UPPER
+  - LOWER
+  - PROPER
+  - CONCATENATE
+  - FIND
+  - LEN
+
+Then we went ahead to learn about vlookup, Cell Referencing (Absolute, Relative, Column Constant and Row Constant), Reporting with Pivot Tables and Charts
+
+### Data Used
+---
+The data used was created by the tutor to aid our learning. 
+
+### Tools Used
+---
+  - Microsoft Excel: For Analysis
+  - Github: For Portfolio Building
 
