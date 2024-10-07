@@ -94,6 +94,11 @@ The data used was created by the tutor to aid our learning.
 
 ### Tools Used
 ---
-  - Microsoft Excel: For Analysis
+  - Microsoft Excel: For Analysis and visualization
   - Github: For Portfolio Building
+
+### Reporting with Pivot Tables and Charts. 
+---
+We used Excel for our data visualization, learning how to use different chart to provide graphical representations of our data. 
+
 
