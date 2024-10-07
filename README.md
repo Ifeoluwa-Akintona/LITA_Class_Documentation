@@ -100,5 +100,6 @@ The data used was created by the tutor to aid our learning.
 ### Reporting with Pivot Tables and Charts. 
 ---
 We used Excel for our data visualization, learning how to use different chart to provide graphical representations of our data. 
+<img width="353" alt="Sales dashboard" src="https://github.com/user-attachments/assets/ee7bfd91-cb07-4581-8e0f-681c2b643247">
 
 
