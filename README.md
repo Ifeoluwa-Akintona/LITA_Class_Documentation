@@ -61,10 +61,13 @@ The formula below was used to calculate the sum of the data given and the same v
 ```EXCEL
 SUM(D8:D27)
 ```
+<img width="923" alt="Exercise" src="https://github.com/user-attachments/assets/25a81af0-fdf5-4d36-999c-d4915ed5453b">
+
 The formula below was used to calculate for our conditional questions. 
 ```EXCEL(For Conditionals)
 SUMIF(C8:C27,"Bayelsa",D8:D27)
 ```
+<img width="931" alt="Conditionals" src="https://github.com/user-attachments/assets/40314a2e-d0d5-49cf-8abb-82168df82758">
 
 # EXCEL (WEEK 2)
 ---
