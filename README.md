@@ -1,4 +1,4 @@
-# LITA_Class_Documentation(WEEK 1-2)
+# LITA_Class_Documentation(WEEK 1-3)
 This is where I documented my first project while learning with the Incubator Hub.
 ---
 
@@ -100,6 +100,26 @@ The data used was created by the tutor to aid our learning.
   - Microsoft Excel: For Analysis and visualization
   - Github: For Portfolio Building
 
+# EXCEL (WEEK 3)
+---
+
+## PIVOT TABLES AND CHARTS
+---
+
+### Course Overview
+---
+The third week of learning Excel, we talked more about using the pivot tables and charts to visualize a graphical representation of all what our data is all about. We were taught the different charts that are available on excel, we also learnt about slicers and how to use timelines. 
+The use of pivot charts for visualization is a great tool for storytelling and this helps clients or stakeholders to understand a summarize version of what the whole data entails. 
+
+### Data Used
+---
+The data used was created by the tutor to aid our learning. 
+
+### Tools Used
+---
+  - Microsoft Excel: For Analysis and visualization
+  - Github: For Portfolio Building
+  - 
 ### Reporting with Pivot Tables and Charts. 
 ---
 We used Excel for our data visualization, learning how to use different chart to provide graphical representations of our data. 
